@@ -3,7 +3,7 @@ A Go Lang implementation of a CLI password checker in Windows
 
 * *setPass.go* - allows you to set a password, which will be stored in a txt file
   * password is hashed by **SHA512** hash function and PBKDF2 algorithm
-*checkPass.go - allows you to enter a string to verify with setted password
+* checkPass.go - allows you to enter a string to verify with setted password
 
 ## Notes
 
